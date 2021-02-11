@@ -76,7 +76,7 @@ prefix = "!"
 name = "~ D 1 X Z | B O T"
 rdaftar = "TERIMA KASIH TELAH DAFTAR MENJADI TEMEN D1XZBOT😁"
 rmenu = "HAI TEMEN D1XZBOT👋 JANGAN LUPA DONASI YAA:)"
-limitt = 15
+limitt = 100
 ban = []
 
 function kyun(seconds){
